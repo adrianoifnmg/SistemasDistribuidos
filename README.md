@@ -10,7 +10,7 @@
 
 > **Objetivo Geral:** Compreender, analisar e desenvolver aplicações distribuídas por meio de técnicas como programação paralela e distribuída, sincronização e comunicação entre processos, comunicação online por meio de sockets TCP/IP e outras tecnologias para computação distribuída e de alto desempenho.
 
-<p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/cloud1.png"></a></p>
+<p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/sistemasDistribuidos.png"></a></p>
 
 ## :dart: Ementa
 * Conceitos básicos: histórico, terminologia, sistemas centralizados, concorrentes, paralelos e distribuídos.
@@ -24,7 +24,7 @@
 
 ## :computer: Ambiente
 
-[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/tecnologiasR2.png">](#)
+[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/tecnologiasSD.png">](#)
 
 ## :memo: Avaliação
 
