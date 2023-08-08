@@ -1,4 +1,4 @@
-# <img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/logoSD.webp" width="60"> Sistemas Distribuídos 
+# <img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/logoSD.png" width="40"> Sistemas Distribuídos 
 
 [![image](https://img.shields.io/badge/Arquivos-282358?style=for-the-badge&logo=PowerShell&logoColor=white
 )](https://github.com/adrianoifnmg/SistemasDistribuidos/tree/main/public)
