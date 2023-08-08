@@ -1,9 +1,9 @@
-# <img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/computer.png" width="60"> Sistemas Distribuídos 
+# <img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/logoSD.webp" width="60"> Sistemas Distribuídos 
 
 [![image](https://img.shields.io/badge/Arquivos-282358?style=for-the-badge&logo=PowerShell&logoColor=white
-)](https://github.com/adrianoifnmg/AdministracaoRedes/tree/main/public)
+)](https://github.com/adrianoifnmg/SistemasDistribuidos/tree/main/public)
 [![image](https://img.shields.io/badge/WhatsApp-155b29?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://chat.whatsapp.com/EKYsG5YL9B37l3eaj1fpx9)
+)](https://chat.whatsapp.com/GmVANrtBx2HEEeDs4bPNgQ)
 [![image](https://img.shields.io/badge/Calendário-3b71c6?style=for-the-badge&logo=GoogleCalendar&logoColor=white
 )](https://calendar.google.com/calendar/embed?src=92ea387b839b82373ec9bda622294d7225bf666ed6cfc49a0293f7acdbbdebaa@group.calendar.google.com&src=hhtmsj9epvmqsdpn27sfolp688@group.calendar.google.com&ctz=America%2FSao_Paulo) [![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white
 )](#link-links-úteis)
