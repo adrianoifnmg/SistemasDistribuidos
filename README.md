@@ -40,6 +40,7 @@
 
 ## :link: Links Úteis
 
+* [Distributed Systems - 4th Edition Book](https://www.distributed-systems.net/)
 * [AWS Academy](https://www.awsacademy.com/vforcesite/LMS_Login) 
 * [Linux Mint](https://linuxmint.com/)
 * [Network Academy](https://www.networkacademy.io/)
