@@ -41,6 +41,7 @@
 ## :link: Links Úteis
 
 * [Distributed Systems - 4th Edition Book](https://www.distributed-systems.net/)
+* [Real Python](https://realpython.com/)
 * [AWS Academy](https://www.awsacademy.com/vforcesite/LMS_Login) 
 * [Linux Mint](https://linuxmint.com/)
 * [Network Academy](https://www.networkacademy.io/)
