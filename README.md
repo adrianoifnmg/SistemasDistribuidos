@@ -35,7 +35,7 @@
 
 ## :books: Bibliografia
 
-* TANENBAUM, Andrew; STEEN, Maarten Van. **Sistemas Distribuídos: Princípios e Paradigmas. 2a Edição**.
+* TANENBAUM, Andrew; STEEN, Maarten Van. **Sistemas Distribuídos: Princípios e Paradigmas. 4a Edição**.
 * COULOURIS, George et al. **Sistemas Distribuídos: Conceitos e Projeto. 5a Edição**.
 * FOROUZAN, Behrouz A. **Comunicação de Dados e Redes de Computadores. 4a Edição**. 
 
