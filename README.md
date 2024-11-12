@@ -14,10 +14,10 @@
 
 ## :dart: Ementa
 * Conceitos básicos: histórico, terminologia, sistemas centralizados, concorrentes, paralelos e distribuídos.
-* Threads e Processos.
+* Corrotinas, Threads e Processos.
 * Sincronização de Threads.
 * Comunicação entre Processos.
-* Comunicação via Sockets TCP/IP.
+* Sockets TCP/IP.
 * Desenvolvimento de Aplicações Distribuídas.
 * Aplicações para Sistemas Distribuídos.
 * Fundamentos de Computação de Alto Desempenho.
