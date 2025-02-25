@@ -18,7 +18,7 @@
 * Sincronização de Threads.
 * Comunicação entre Processos.
 * Sockets TCP/IP.
-* WebSockets, RPC, gRPC, MessageQueues, e outras ferramentas.
+* WebSockets, RPC, gRPC, APIs, MessageQueues e outras ferramentas.
 * Desenvolvimento de Aplicações Distribuídas.
 * Fundamentos de Computação de Alto Desempenho.
 
