@@ -18,8 +18,8 @@
 * Sincronização de Threads.
 * Comunicação entre Processos.
 * Sockets TCP/IP.
+* WebSockets, RPC, gRPC, MessageQueues, e outras ferramentas.
 * Desenvolvimento de Aplicações Distribuídas.
-* Aplicações para Sistemas Distribuídos.
 * Fundamentos de Computação de Alto Desempenho.
 
 ## :computer: Ambiente
