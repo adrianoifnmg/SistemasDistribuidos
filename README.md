@@ -50,8 +50,11 @@
 * [Network Academy](https://www.networkacademy.io/)
 * [IP Info](https://ipinfo.io/)
 * [Teste IPv6](http://test-ipv6.com/) 
+* [Prof. Lasaro Camargos](https://lasarojc.github.io/ds_notes/)
 * [Livro IPv6](https://www.ipv6.br/pagina/downloads/)
 * [Tcpdump Tutorial with Examples](https://danielmiessler.com/study/tcpdump/)
 * [Gnu Linux Brasil](http://www.gnulinuxbrasil.com.br/)
+* [Blockchain Demo](https://andersbrownworth.com/blockchain/hash)
+
 
 ## [![vader](https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/vader2.gif)](#)
