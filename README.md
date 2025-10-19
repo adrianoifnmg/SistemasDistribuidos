@@ -13,7 +13,7 @@
 <p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/sistemasDistribuidos.png"></a></p>
 
 ## :dart: Ementa
-* Conceitos básicos: histórico, terminologia, sistemas centralizados, concorrentes, paralelos e distribuídos.
+* Conceitos básicos: histórico, terminologia, sistemas síncronos, concorrentes, paralelos e distribuídos.
 * Corrotinas, Threads e Processos.
 * Sincronização de Threads.
 * Comunicação entre Processos.
