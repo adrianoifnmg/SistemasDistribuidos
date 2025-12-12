@@ -15,6 +15,7 @@
 ## :dart: Ementa
 * Conceitos básicos: histórico, terminologia, sistemas síncronos, concorrentes, paralelos e distribuídos.
 * Corrotinas, Threads e Processos.
+* Libs Assíncronas
 * Sincronização de Threads.
 * Comunicação entre Processos.
 * Sockets TCP/IP.
