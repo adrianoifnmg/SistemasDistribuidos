@@ -50,6 +50,7 @@
 [Plataforma de Processamento Assíncrono de Pedidos](https://github.com/Natan-ls/processamento-assincrono-pedidos) | [@WallanMelo](https://github.com/WallanMelo) [@Natan-ls](https://github.com/Natan-ls) [@ClebTech](https://github.com/ClebTech) [@jmarcosgc](https://github.com/jmarcosgc) |
 | [TCP Simulator](https://github.com/TkMaia7/tcp-simulator) | [@TkMaia7](https://github.com/TkMaia7) |
 | [Bilheteria.io - Sistema Distribuído de Venda de Ingressos](https://github.com/marianeoli/ProjetoVendasDeIngressos) | [@marianeoli](https://github.com/marianeoli) [@milenabmota](https://github.com/milenabmota) |
+| [VideoBox](https://github.com/ronaldocrispimsg/VideoBox) | [@ronaldocrispimsg](https://github.com/ronaldocrispimsg) [@mferrreira](https://github.com/mferrreira) |
 
 ## :link: Links Úteis
 
