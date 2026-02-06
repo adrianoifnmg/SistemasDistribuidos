@@ -41,9 +41,17 @@
 * COULOURIS, George et al. **Sistemas Distribuídos: Conceitos e Projeto. 5a Edição**.
 * FOROUZAN, Behrouz A. **Comunicação de Dados e Redes de Computadores. 4a Edição**. 
 
+## :projects: Projetos Desenvolvidos
+
+[Art Pixel - Sistema Distribuído de Arte Colaborativa](https://github.com/thiago9852/pixel-art) @thiago9852 
+
+* COULOURIS, George et al. **Sistemas Distribuídos: Conceitos e Projeto. 5a Edição**.
+* FOROUZAN, Behrouz A. **Comunicação de Dados e Redes de Computadores. 4a Edição**. 
+
+
 ## :link: Links Úteis
 
-* [Distributed Systems - 4th Edition Book](https://www.distributed-systems.net/)
+* [Distributed Systems - 4th Edition Book](https://www.distributed-systems.net/) 
 * [Python Fluente](https://pythonfluente.com/) 
 * [Real Python](https://realpython.com/)
 * [AWS Academy](https://www.awsacademy.com/vforcesite/LMS_Login) 
