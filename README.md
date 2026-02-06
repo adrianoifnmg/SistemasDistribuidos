@@ -41,13 +41,13 @@
 * COULOURIS, George et al. **Sistemas Distribuídos: Conceitos e Projeto. 5a Edição**.
 * FOROUZAN, Behrouz A. **Comunicação de Dados e Redes de Computadores. 4a Edição**. 
 
-## :projects: Projetos Desenvolvidos
+## Projetos Desenvolvidos
 
-[Art Pixel - Sistema Distribuído de Arte Colaborativa](https://github.com/thiago9852/pixel-art) @thiago9852 
-
-* COULOURIS, George et al. **Sistemas Distribuídos: Conceitos e Projeto. 5a Edição**.
-* FOROUZAN, Behrouz A. **Comunicação de Dados e Redes de Computadores. 4a Edição**. 
-
+* [Art Pixel - Sistema Distribuído de Arte Colaborativa](https://github.com/thiago9852/pixel-art) [@thiago9852](https://github.com/thiago9852) 
+* [NewsFlow - CMS de Notícias Distribuído](https://github.com/murphiie/NewsFlow) [@murphiie](https://github.com/murphiie) [@RafaellaRamos1](https://github.com/RafaellaRamos1)
+* [Plataforma de Processamento Assíncrono de Pedidos](https://github.com/Natan-ls/processamento-assincrono-pedidos) [@WallanMelo](https://github.com/WallanMelo) [@Natan-ls](https://github.com/Natan-ls) [@ClebTech](https://github.com/ClebTech) [@jmarcosgc](https://github.com/jmarcosgc)
+* [TCP Simulator](https://github.com/TkMaia7/tcp-simulator) [@TkMaia7](https://github.com/TkMaia7)
+* [Bilheteria.io - Sistema Distribuído de Venda de Ingressos](https://github.com/marianeoli/ProjetoVendasDeIngressos) [@marianeoli](https://github.com/marianeoli) [@milenabmota](https://github.com/milenabmota)
 
 ## :link: Links Úteis
 
