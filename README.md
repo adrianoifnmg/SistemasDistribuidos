@@ -45,12 +45,15 @@
 
 | Título | Autor(es) | Turma |
 | :--- | :--- | :--- | 
-| [Art Pixel - Sistema Distribuído de Arte Colaborativa](https://github.com/thiago9852/pixel-art) | [@thiago9852](https://github.com/thiago9852) | 2015 |
-| [NewsFlow - CMS de Notícias Distribuído](https://github.com/murphiie/NewsFlow) | [@murphiie](https://github.com/murphiie) [@RafaellaRamos1](https://github.com/RafaellaRamos1) | 2015 |
-[Plataforma de Processamento Assíncrono de Pedidos](https://github.com/Natan-ls/processamento-assincrono-pedidos) | [@WallanMelo](https://github.com/WallanMelo) [@Natan-ls](https://github.com/Natan-ls) [@ClebTech](https://github.com/ClebTech) [@jmarcosgc](https://github.com/jmarcosgc) | 2015 |
-| [TCP Simulator](https://github.com/TkMaia7/tcp-simulator) | [@TkMaia7](https://github.com/TkMaia7) | 2015 |
-| [Bilheteria.io - Sistema Distribuído de Venda de Ingressos](https://github.com/marianeoli/ProjetoVendasDeIngressos) | [@marianeoli](https://github.com/marianeoli) [@milenabmota](https://github.com/milenabmota) | 2015 |
-| [VideoBox](https://github.com/ronaldocrispimsg/VideoBox) | [@ronaldocrispimsg](https://github.com/ronaldocrispimsg) [@mferrreira](https://github.com/mferrreira) | 2015 |
+| [Art Pixel - Sistema Distribuído de Arte Colaborativa](https://github.com/thiago9852/pixel-art) | [@thiago9852](https://github.com/thiago9852) | 2025 |
+| [NewsFlow - CMS de Notícias Distribuído](https://github.com/murphiie/NewsFlow) | [@murphiie](https://github.com/murphiie) [@RafaellaRamos1](https://github.com/RafaellaRamos1) | 2025 |
+[Plataforma de Processamento Assíncrono de Pedidos](https://github.com/Natan-ls/processamento-assincrono-pedidos) | [@WallanMelo](https://github.com/WallanMelo) [@Natan-ls](https://github.com/Natan-ls) [@ClebTech](https://github.com/ClebTech) [@jmarcosgc](https://github.com/jmarcosgc) | 2025 |
+| [TCP Simulator](https://github.com/TkMaia7/tcp-simulator) | [@TkMaia7](https://github.com/TkMaia7) | 2025 |
+| [Bilheteria.io - Sistema Distribuído de Venda de Ingressos](https://github.com/marianeoli/ProjetoVendasDeIngressos) | [@marianeoli](https://github.com/marianeoli) [@milenabmota](https://github.com/milenabmota) | 2025 |
+| [VideoBox](https://github.com/ronaldocrispimsg/VideoBox) | [@ronaldocrispimsg](https://github.com/ronaldocrispimsg) [@mferrreira](https://github.com/mferrreira) | 2025 |
+| [Naval Strike](https://github.com/Keltonmd/NavalStrike) | [@Keltonmd](https://github.com/Keltonmd) [@JPJohn1110](https://github.com/JPJohn1110) [@iamlucasmagalhaes](https://github.com/iamlucasmagalhaes) | 2024 |
+| [Block Shuffle](https://github.com/JOAOGUI13JG/BlockShuffle) | [@JOAOGUI13JG](https://github.com/JOAOGUI13JG) [@matheus-sl](https://github.com/matheus-sl) | 2024 |
+| [Memory Game](https://github.com/PedroG022/ds-memory-game) | [@PedroG022](https://github.com/PedroG022) | 2023 |
 
 ## :link: Links Úteis
 
