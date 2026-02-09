@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/Conteúdos_de_Aula-282358?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/adrianoifnmg/SistemasDistribuidos/tree/main/public)
 [![image](https://img.shields.io/badge/WhatsApp-155b29?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GmVANrtBx2HEEeDs4bPNgQ)
 [![image](https://img.shields.io/badge/Calendário-3b71c6?style=for-the-badge&logo=GoogleCalendar&logoColor=white)](https://calendar.google.com/calendar/embed?src=92ea387b839b82373ec9bda622294d7225bf666ed6cfc49a0293f7acdbbdebaa@group.calendar.google.com&src=hhtmsj9epvmqsdpn27sfolp688@group.calendar.google.com&ctz=America%2FSao_Paulo) 
-[![image](https://img.shields.io/badge/Projetos-F83C3D?style=for-the-badge&logo=GoogleDocs&logoColor=white)](#projetos-desenvolvidos)
+[![image](https://img.shields.io/badge/Projetos-F83C3D?style=for-the-badge&logo=GoogleDocs&logoColor=white)](#-projetos-desenvolvidos)
 [![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white)](#link-links-úteis)
 
 > **Objetivo Geral:** Compreender, analisar e desenvolver aplicações distribuídas por meio de técnicas como programação concorrente, paralela e distribuída, sincronização e comunicação entre processos, comunicação online por meio de sockets TCP/IP e outras tecnologias para computação distribuída e de alto desempenho.
