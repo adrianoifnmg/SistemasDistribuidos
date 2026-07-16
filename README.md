@@ -29,9 +29,9 @@
 ## :memo: Avaliação
 
 * Laboratórios e Atividades Práticas - 30 Pontos
-* Avaliação Individual - 20 Pontos
+* Avaliação Individual - 25 Pontos
 * Apresentação de Temas - 20 Pontos
-* Projeto Final - 30 Pontos
+* Projeto Final - 25 Pontos
 
 ## :books: Bibliografia
 
