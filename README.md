@@ -62,7 +62,7 @@
 * [AWS Academy](https://www.awsacademy.com/vforcesite/LMS_Login) 
 * [Linux Mint](https://linuxmint.com/)
 * [UV](https://docs.astral.sh/uv/)
-* [Code Server](https://github.com/coder/code-server)
+* [Docker Install Official Version](https://docs.docker.com/engine/install/debian/)
 * [Code Server [Docker]](https://github.com/coder/code-server/pkgs/container/code-server)
 * [Let's Encrypt with NGINX](https://coder.com/docs/code-server/guide#using-lets-encrypt-with-nginx)
 * [Network Academy](https://www.networkacademy.io/)
