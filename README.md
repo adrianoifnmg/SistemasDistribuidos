@@ -49,7 +49,7 @@
 [Processamento Assíncrono de Pedidos](https://github.com/Natan-ls/processamento-assincrono-pedidos) | [@WallanMelo](https://github.com/WallanMelo) [@Natan-ls](https://github.com/Natan-ls) [@ClebTech](https://github.com/ClebTech) [@jmarcosgc](https://github.com/jmarcosgc) | 2025 |
 | [TCP Simulator](https://github.com/TkMaia7/tcp-simulator) | [@TkMaia7](https://github.com/TkMaia7) | 2025 |
 | [Bilheteria.io](https://github.com/marianeoli/ProjetoVendasDeIngressos) | [@marianeoli](https://github.com/marianeoli) [@milenabmota](https://github.com/milenabmota) | 2025 |
-| [VideoBox](https://github.com/ronaldocrispimsg/VideoBox) | [@ronaldocrispimsg](https://github.com/ronaldocrispimsg) [@mferrreira](https://github.com/mferrreira) | 2025 |
+| [VideoBox / Repositório Multimídia](https://github.com/ronaldocrispimsg/VideoBox) | [@ronaldocrispimsg](https://github.com/ronaldocrispimsg) [@mferrreira](https://github.com/mferrreira) [@vinirodriguesz](https://github.com/vinirodriguesz)| 2025 |
 | [Naval Strike](https://github.com/Keltonmd/NavalStrike) | [@Keltonmd](https://github.com/Keltonmd) [@JPJohn1110](https://github.com/JPJohn1110) [@iamlucasmagalhaes](https://github.com/iamlucasmagalhaes) | 2024 |
 | [Block Shuffle](https://github.com/JOAOGUI13JG/BlockShuffle) | [@JOAOGUI13JG](https://github.com/JOAOGUI13JG) [@matheus-sl](https://github.com/matheus-sl) | 2024 |
 | [Memory Game](https://github.com/PedroG022/ds-memory-game) | [@PedroG022](https://github.com/PedroG022) | 2023 |
